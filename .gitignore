@@ -1,1 +1,24 @@
+# Data and Figures (Do not upload raw datasets or heavy exports)
+data/*
+!data/.gitkeep
+figures/*
+!figures/.gitkeep
 
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+.virtual_documents/
+
+# Python environment & caching
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
