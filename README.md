@@ -32,10 +32,3 @@ This repository tracks and analyzes the intersection of renewable energy penetra
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/ExcellentEjike/germany-energy-transition-analytics.git
-
-We will investigate five specific questions:
-- How has the electricity generation mix changed between 2023 and 2024?
-- What are the daily, monthly and seasonal electricity consumption patterns?
-- How does renewable generation relate to wholesale electricity prices?
-- When do negative electricity prices occur most frequently?
-- What recommendations can be derived for energy planning and flexible electricity consumption?
