@@ -6,9 +6,13 @@ This repository tracks and analyzes the intersection of renewable energy penetra
 ## Project Structure
 
 ├── data/          # Raw and processed energy data (parquets, CSVs)
+
 ├── figures/       # Visualizations, trend lines, and correlation plots
+
 ├── notebooks/     # Jupyter Notebooks for EDA and statistical workflows
+
 ├── presentation/  # Final slides, dashboards, and reporting summaries
+
 └── sql/           # Query scripts for data aggregation and ETL
 
 ## Key Investigative Questions
