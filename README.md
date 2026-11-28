@@ -25,10 +25,9 @@ This repository tracks and analyzes the intersection of renewable energy penetra
 ## Data Source
 *Data used in this project is collected from public energy reporting APIs and transparency platform:*
 * **SMARD.de** (Federal Network Agency / Bundesnetzagentur) for actual generation, consumption, and market prices.
-* Data_Source = https://www.smard.de/home/downloadcenter/download-marktdaten/
-* 
-![Uploading image.png…]()
-
+   ```bash 
+   Data_Source = https://www.smard.de/home/downloadcenter/download-marktdaten/
+  
 
 ## Tech Stack & Tooling
 * **Storage & Infrastructure:** DuckDB / SQLite (via `/sql` workflows)
