@@ -5,7 +5,7 @@ This repository tracks and analyzes the intersection of renewable energy penetra
 
 ## Project Structure
 
-├── data/          # Raw and processed energy data (parquets, CSVs)
+├── data/          # Raw and processed energy data (parquets, CSVs) 
 
 ├── figures/       # Visualizations, trend lines, and correlation plots
 
@@ -22,10 +22,12 @@ This repository tracks and analyzes the intersection of renewable energy penetra
 4. **Market Volatility:** When do negative electricity prices occur most frequently, and what triggers them?
 5. **Strategic Insights:** What data-driven recommendations can be derived for energy planning and flexible electricity consumption?
 
-## Data Sources
-*Data used in this project is collected from public energy reporting APIs and transparency platforms:*
+## Data Source
+*Data used in this project is collected from public energy reporting APIs and transparency platform:*
 * **SMARD.de** (Federal Network Agency / Bundesnetzagentur) for actual generation, consumption, and market prices.
-* **ENTSO-E** Transparency Platform for cross-border physical electricity flows.
+* Data_Source = https://www.smard.de/home/downloadcenter/download-marktdaten/
+![Uploading image.png…]()
+
 
 ## Tech Stack & Tooling
 * **Storage & Infrastructure:** DuckDB / SQLite (via `/sql` workflows)
